@@ -1,0 +1,68 @@
+
+sheetgame.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+block
+  rotate: false
+  xy: 1, 35
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bob-0
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bob-1
+  rotate: false
+  xy: 67, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bob-2
+  rotate: false
+  xy: 101, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bob-3
+  rotate: false
+  xy: 135, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bob-4
+  rotate: false
+  xy: 169, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bob-5
+  rotate: false
+  xy: 203, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bob-fall
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bob-jump
+  rotate: false
+  xy: 69, 33
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
